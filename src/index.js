@@ -24,7 +24,7 @@ const applyDefaults = ctx =>
 
 const shortcutIcon = (dest, ctx) => {
   if (!ctx.shortcutIcon) {
-    ctx.shortcutIcon = { type: 'internal', url: 'assets/images/favicon.png' };
+    ctx.shortcutIcon = { type: 'internal', url: 'assets/images/favicon.ico' };
   } else if (ctx.shortcutIcon.type === 'internal') {
     ctx.shortcutIcon.url = 'assets/images/' + ctx.shortcutIcon.url;
 
