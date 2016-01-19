@@ -71,14 +71,4 @@
     white-space: nowrap;
     text-overflow: ellipsis;
   }
-
-  &::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0.15em;
-    height: 0.2em;
-    background-color: $primary-color;
-  }
 }
