@@ -1,6 +1,6 @@
 <!doctype html>
 
-{% set project_title = "SassDoc" %}
+{% set project_title = "Sassdoc" %}
 
 {% if package.name %}
   {% set project_title = (package.name|capitalize) %}

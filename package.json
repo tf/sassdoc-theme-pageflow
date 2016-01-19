@@ -1,15 +1,15 @@
 {
-  "name": "sassdoc-theme-default",
-  "description": "SassDoc's default theme",
-  "title": "SassDoc Default Theme",
-  "author": "SassDoc team",
-  "version": "2.4.1",
+  "name": "sassdoc-theme-pageflow",
+  "description": "Fork of SassDoc's default theme",
+  "title": "SassDoc Pageflow Theme",
+  "author": "Codevise Solutions Ltd.",
+  "version": "0.1.0",
   "keywords": [
     "sassdoc-theme"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SassDoc/sassdoc-theme-default.git"
+    "url": "https://github.com/tf/sassdoc-theme-pageflow.git"
   },
   "files": [
     "assets",
